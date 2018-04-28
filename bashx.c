@@ -1,6 +1,5 @@
 /* Program that implements the basic functionality of the shell (bash), */
 /* written on the course of lectures "Operating Systems and Networks".  */
-/* Complete task: http://cleric.su/media/assignments/assignment1.pdf    */
 
 #define _GNU_SOURCE
 #include <sys/types.h>
